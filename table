@@ -1,0 +1,40 @@
+<table border="1" width="80%">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Age</th>
+      <th>Location</th>
+      <th>garde</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="20%">John dummy shipper no border</td>
+      <td>23</td>
+      <td>kathmandu</td>
+      <td>a</td>
+    </tr>
+
+    <tr>
+      <td>sanju</td>
+      <td>18</td>
+      <td>ghattekulo</td>
+      <td>b</td>
+    </tr>
+
+    <tr>
+      <td>kamal</td>
+      <td>23</td>
+      <td>lalitpur</td>
+      <td>c</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>total students</td>
+      <td>20</td>
+    </tr>
+  </tfoot>
+</table>
